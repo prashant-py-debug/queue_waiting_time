@@ -13,7 +13,7 @@ save_dir = "saved/"
 bounding_box_topleft = (7, 74)
 bounding_box_bottomright = (612,408)
 filename = "saved.jpg"
-threshold = 0.33
+threshold = 0.2
 ############################################
 
 # Config TF, set True if using GPU
