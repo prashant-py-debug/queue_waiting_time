@@ -2,9 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import numpy as np
 import cv2
-from model import MCNN
 import tensorflow as tf
-from tensorflow.keras.callbacks import ModelCheckpoint
 import os
 import matplotlib.pyplot as plt
 from collections import deque
